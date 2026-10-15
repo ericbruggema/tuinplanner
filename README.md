@@ -1,6 +1,8 @@
-# Tuinplanner
+# Garden Planner
 
 **English** · [Nederlands](README.nl.md) · [Deutsch](README.de.md) · [Français](README.fr.md) · [Español](README.es.md)
+
+On your phone the app and the downloaded file are called *Tuinplanner*.
 
 A friendly garden planner for Android that works without internet. It tells you when to sow, plant, prune and
 harvest, reminds you, and keeps track of what grows in your garden and at home. No account, no ads: your data
@@ -35,7 +37,7 @@ off one by one in Settings.
 
 1. Open the **[Releases](../../releases)** page and download the newest `tuinplanner-<version>.apk` on your phone.
 2. Open the file. If Android asks, allow installing from this source.
-3. Start Tuinplanner. That is all.
+3. Start the app. That is all.
 
 The app is signed for sideloading and is not in the Play Store.
 

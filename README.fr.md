@@ -1,6 +1,8 @@
-# Tuinplanner
+# Planificateur de jardin
 
 [English](README.md) · [Nederlands](README.nl.md) · [Deutsch](README.de.md) · **Français** · [Español](README.es.md)
+
+Sur ton téléphone, l'application et le fichier téléchargé s'appellent *Tuinplanner*.
 
 Un planificateur de jardin convivial pour Android, qui fonctionne sans internet. Il t'indique quand semer,
 planter, tailler et récolter, te le rappelle et garde la trace de ce qui pousse dans ton jardin et chez toi.
@@ -35,7 +37,7 @@ actives ou désactives une à une dans les réglages.
 
 1. Ouvre la page **[Releases](../../releases)** et télécharge sur ton téléphone le dernier `tuinplanner-<version>.apk`.
 2. Ouvre le fichier. Si Android le demande, autorise l'installation depuis cette source.
-3. Lance Tuinplanner. C'est tout.
+3. Lance l'application. C'est tout.
 
 L'application est destinée à être installée soi-même et n'est pas sur le Play Store.
 
