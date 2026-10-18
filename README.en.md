@@ -30,6 +30,7 @@ with explanations and sources. It works completely offline; the plant library is
 The home screen shows the tasks of the moment: sowing, pre-sowing, planting, pruning, harvesting, watering and feeding.
 
 - **Tick off with one tap.** A harvest asks right away how much you picked, so your diary stays correct.
+- **Swipe.** Swipe a task left to tick it off and right to postpone it. You can flip that or turn it off in Settings. A short message with *Undo* lets you take back a slip, and finished tasks leave the list.
 - **Later**: postpone a task until tomorrow, next week or a number of days you choose.
 - **Group and filter** by action, plant or bed.
 - **Tip of the month** for the plants you have, with a source.

@@ -31,6 +31,7 @@ Pflanzenbibliothek steckt in der App.
 Der Startbildschirm zeigt die Aufgaben des Moments: säen, vorziehen, pflanzen, schneiden, ernten, gießen und düngen.
 
 - **Mit einem Tipp abhaken.** Bei einer Ernte wirst du gleich gefragt, wie viel du geerntet hast, damit dein Tagebuch stimmt.
+- **Wischen.** Wische eine Aufgabe nach links, um sie abzuhaken, und nach rechts, um sie zu verschieben. In den Einstellungen drehst du das um oder schaltest es aus. Eine kurze Meldung mit *Rückgängig* nimmt einen Fehlgriff zurück, und erledigte Aufgaben verschwinden aus der Liste.
 - **Später**: verschiebe eine Aufgabe auf morgen, nächste Woche oder eine Anzahl Tage, die du wählst.
 - **Gruppieren und filtern** nach Aktion, Pflanze oder Beet.
 - **Tipp des Monats** für die Pflanzen, die du hast, mit Quelle.

@@ -39,6 +39,7 @@ Het beginscherm toont de taken van nu: zaaien, voorzaaien, planten, snoeien, oog
 </p>
 
 - **Afvinken met één tik.** Een oogst vraagt meteen hoeveel je hebt geoogst, zodat je dagboek vanzelf klopt.
+- **Vegen.** Veeg een taak naar links om hem af te vinken en naar rechts om hem uit te stellen. Je draait dat om of zet het uit onder Instellingen. Een korte melding met *Ongedaan* laat je een misser herstellen, en gedane taken verdwijnen uit de lijst.
 - **Later**: stel een taak uit tot morgen, volgende week of een aantal dagen dat je zelf kiest.
 - **Groeperen en filteren** op actie, plant of tuinvak.
 - **Tip van deze maand** voor de planten die je hebt, met bron.

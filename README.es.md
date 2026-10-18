@@ -31,6 +31,7 @@ aplicación.
 La pantalla de inicio muestra las tareas del momento: sembrar, sembrar en semillero, plantar, podar, cosechar, regar y abonar.
 
 - **Márcalas con un toque.** Una cosecha pregunta enseguida cuánto has recogido, para que tu diario sea correcto.
+- **Deslizar.** Desliza una tarea a la izquierda para marcarla y a la derecha para aplazarla. En los ajustes puedes invertirlo o desactivarlo. Un breve aviso con *Deshacer* te deja corregir un error, y las tareas hechas salen de la lista.
 - **Más tarde**: aplaza una tarea hasta mañana, la semana que viene o un número de días que elijas.
 - **Agrupar y filtrar** por acción, planta o bancal.
 - **Consejo del mes** para las plantas que tienes, con fuente.

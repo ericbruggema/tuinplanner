@@ -32,6 +32,7 @@ de plantes est dans l'application.
 L'écran d'accueil montre les tâches du moment : semer, semer sous abri, planter, tailler, récolter, arroser et nourrir.
 
 - **Coche d'un geste.** Une récolte demande tout de suite combien tu as récolté, pour que ton journal reste juste.
+- **Glisser.** Glisse une tâche vers la gauche pour la cocher et vers la droite pour la reporter. Tu peux inverser cela ou le désactiver dans les réglages. Un court message avec *Annuler* te laisse corriger une erreur, et les tâches faites quittent la liste.
 - **Plus tard** : reporte une tâche à demain, à la semaine prochaine ou à un nombre de jours de ton choix.
 - **Grouper et filtrer** par action, plante ou parcelle.
 - **Conseil du mois** pour les plantes que tu as, avec la source.
