@@ -32,6 +32,7 @@ de plantes est dans l'application.
 L'écran d'accueil montre les tâches du moment : semer, semer sous abri, planter, tailler, récolter, arroser et nourrir.
 
 - **Coche d'un geste.** Une récolte demande tout de suite combien tu as récolté, pour que ton journal reste juste.
+- **Choisir plusieurs à la fois.** Maintiens une ligne ou une tuile pour en choisir d'autres ; les actions (ajouter à ta liste, changer le statut, supprimer) apparaissent en bas et disparaissent sans sélection.
 - **Glisser.** Glisse une tâche vers la gauche pour la cocher et vers la droite pour la reporter. Tu peux inverser cela ou le désactiver dans les réglages. Un court message avec *Annuler* te laisse corriger une erreur, et les tâches faites quittent la liste.
 - **Plus tard** : reporte une tâche à demain, à la semaine prochaine ou à un nombre de jours de ton choix.
 - **Grouper et filtrer** par action, plante ou parcelle.
@@ -78,6 +79,7 @@ Dessine ton jardin avec des parcelles et vois ce qui va où.
 
 - **Mois** ou **Année**, pour le **Jardin**, la **Maison** ou **Les deux**. Dans les réglages, tu choisis ce que tu vois en premier.
 - L'aperçu annuel montre des barres colorées par plante, avec une icône quand un mois n'a qu'une seule action.
+- **Semaine**, à côté de mois et année : tes tâches personnelles et l'arrosage et l'engrais des plantes d'intérieur, jour par jour. Les groupes sont ouverts s'il reste quelque chose à faire dans l'horizon réglé, et se referment quand tout est fait. Maintiens un bloc de mois coloré pour une explication des couleurs.
 - Tâches personnelles par semaine ; les semaines vides sont masquées par défaut.
 - Exporte les tâches vers l'agenda de ton téléphone (fichier ICS).
 

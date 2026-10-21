@@ -39,6 +39,7 @@ Het beginscherm toont de taken van nu: zaaien, voorzaaien, planten, snoeien, oog
 </p>
 
 - **Afvinken met één tik.** Een oogst vraagt meteen hoeveel je hebt geoogst, zodat je dagboek vanzelf klopt.
+- **Meerdere tegelijk kiezen.** Houd een rij of tegel ingedrukt om er meer te kiezen; onderaan verschijnen dan de acties (op je lijst zetten, status wijzigen, verwijderen). Zonder keuze zijn ze er niet.
 - **Vegen.** Veeg een taak naar links om hem af te vinken en naar rechts om hem uit te stellen. Je draait dat om of zet het uit onder Instellingen. Een korte melding met *Ongedaan* laat je een misser herstellen, en gedane taken verdwijnen uit de lijst.
 - **Later**: stel een taak uit tot morgen, volgende week of een aantal dagen dat je zelf kiest.
 - **Groeperen en filteren** op actie, plant of tuinvak.
@@ -108,6 +109,7 @@ Teken je tuin met vakken en zie wat er waar kan.
 
 - **Maand** of **Jaar**, voor **Tuin**, **Huis** of **Beide**. In Instellingen kies je wat je als eerste ziet.
 - Het jaaroverzicht toont per plant gekleurde balkjes, met een icoon als een maand maar één actie heeft.
+- **Week**, naast maand en jaar: je eigen taken en het water en de voeding voor je planten in huis per dag. Groepen staan open als er nog iets te doen is binnen de horizon die je instelt, en klappen dicht als alles gedaan is. Houd een gekleurd maandblok ingedrukt voor uitleg bij de kleuren.
 - Eigen taken per week; lege weken zijn standaard verborgen.
 - Exporteer taken naar de agenda van je telefoon (ICS-bestand).
 

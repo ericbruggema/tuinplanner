@@ -31,6 +31,7 @@ Pflanzenbibliothek steckt in der App.
 Der Startbildschirm zeigt die Aufgaben des Moments: säen, vorziehen, pflanzen, schneiden, ernten, gießen und düngen.
 
 - **Mit einem Tipp abhaken.** Bei einer Ernte wirst du gleich gefragt, wie viel du geerntet hast, damit dein Tagebuch stimmt.
+- **Mehrere auf einmal wählen.** Halte eine Zeile oder Kachel gedrückt, um weitere zu wählen; unten erscheinen dann die Aktionen (auf die Liste setzen, Status ändern, löschen). Ohne Auswahl sind sie nicht da.
 - **Wischen.** Wische eine Aufgabe nach links, um sie abzuhaken, und nach rechts, um sie zu verschieben. In den Einstellungen drehst du das um oder schaltest es aus. Eine kurze Meldung mit *Rückgängig* nimmt einen Fehlgriff zurück, und erledigte Aufgaben verschwinden aus der Liste.
 - **Später**: verschiebe eine Aufgabe auf morgen, nächste Woche oder eine Anzahl Tage, die du wählst.
 - **Gruppieren und filtern** nach Aktion, Pflanze oder Beet.
@@ -77,6 +78,7 @@ Zeichne deinen Garten mit Beeten und sieh, was wohin passt.
 
 - **Monat** oder **Jahr**, für **Garten**, **Haus** oder **Beides**. In den Einstellungen wählst du, was du zuerst siehst.
 - Die Jahresübersicht zeigt farbige Balken pro Pflanze, mit einem Symbol, wenn ein Monat nur eine Aktion hat.
+- **Woche**, neben Monat und Jahr: deine eigenen Aufgaben sowie Gießen und Düngen der Zimmerpflanzen pro Tag. Gruppen sind offen, wenn im eingestellten Zeitraum noch etwas ansteht, und klappen zu, wenn alles erledigt ist. Halte einen farbigen Monatsblock gedrückt, um die Farben erklärt zu bekommen.
 - Eigene Aufgaben pro Woche; leere Wochen sind standardmäßig ausgeblendet.
 - Aufgaben in den Kalender deines Handys exportieren (ICS-Datei).
 

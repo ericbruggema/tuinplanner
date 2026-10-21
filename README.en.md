@@ -30,6 +30,7 @@ with explanations and sources. It works completely offline; the plant library is
 The home screen shows the tasks of the moment: sowing, pre-sowing, planting, pruning, harvesting, watering and feeding.
 
 - **Tick off with one tap.** A harvest asks right away how much you picked, so your diary stays correct.
+- **Pick several at once.** Press and hold a row or tile to pick more; the actions (add to your list, change status, delete) appear at the bottom and are gone without a selection.
 - **Swipe.** Swipe a task left to tick it off and right to postpone it. You can flip that or turn it off in Settings. A short message with *Undo* lets you take back a slip, and finished tasks leave the list.
 - **Later**: postpone a task until tomorrow, next week or a number of days you choose.
 - **Group and filter** by action, plant or bed.
@@ -76,6 +77,7 @@ Draw your garden with beds and see what fits where.
 
 - **Month** or **Year**, for **Garden**, **House** or **Both**. In Settings you choose what you see first.
 - The year overview shows coloured bars per plant, with an icon when a month has only one action.
+- **Week**, next to month and year: your own tasks and the water and feeding for your houseplants, per day. Groups open when there is still something to do within the horizon you set, and fold shut when all is done. Press and hold a coloured month block for an explanation of the colours.
 - Own tasks per week; empty weeks are hidden by default.
 - Export tasks to your phone's calendar (ICS file).
 

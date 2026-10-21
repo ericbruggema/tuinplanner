@@ -31,6 +31,7 @@ aplicación.
 La pantalla de inicio muestra las tareas del momento: sembrar, sembrar en semillero, plantar, podar, cosechar, regar y abonar.
 
 - **Márcalas con un toque.** Una cosecha pregunta enseguida cuánto has recogido, para que tu diario sea correcto.
+- **Elegir varios a la vez.** Mantén pulsada una fila o tarjeta para elegir más; abajo aparecen las acciones (añadir a tu lista, cambiar el estado, eliminar) y desaparecen sin selección.
 - **Deslizar.** Desliza una tarea a la izquierda para marcarla y a la derecha para aplazarla. En los ajustes puedes invertirlo o desactivarlo. Un breve aviso con *Deshacer* te deja corregir un error, y las tareas hechas salen de la lista.
 - **Más tarde**: aplaza una tarea hasta mañana, la semana que viene o un número de días que elijas.
 - **Agrupar y filtrar** por acción, planta o bancal.
@@ -77,6 +78,7 @@ Dibuja tu jardín con bancales y mira qué cabe dónde.
 
 - **Mes** o **Año**, para el **Jardín**, la **Casa** o **Ambos**. En los ajustes eliges lo que ves primero.
 - El resumen anual muestra barras de colores por planta, con un icono cuando un mes tiene una sola acción.
+- **Semana**, junto a mes y año: tus tareas propias y el riego y abono de las plantas de interior, día a día. Los grupos están abiertos si queda algo por hacer dentro del horizonte que fijes, y se cierran cuando todo está hecho. Mantén pulsado un bloque de mes de color para ver qué significan los colores.
 - Tareas propias por semana; las semanas vacías están ocultas por defecto.
 - Exporta las tareas al calendario de tu teléfono (archivo ICS).
 
