@@ -39,7 +39,7 @@ Het beginscherm toont de taken van nu: zaaien, voorzaaien, planten, snoeien, oog
 </p>
 
 - **Afvinken met één tik.** Een oogst vraagt meteen hoeveel je hebt geoogst, zodat je dagboek vanzelf klopt.
-- **Meerdere tegelijk kiezen.** Houd een rij of tegel ingedrukt om er meer te kiezen; onderaan verschijnen dan de acties (op je lijst zetten, status wijzigen, verwijderen). Zonder keuze zijn ze er niet.
+- **Meerdere tegelijk kiezen.** Houd een rij of tegel ingedrukt om er meer te kiezen; onderaan verschijnen dan de acties (op je lijst zetten, status wijzigen, verwijderen). Zonder keuze zijn ze er niet. Het werkt ook in het dagboek (regels verbergen, notities verwijderen, taken in Komend samen afvinken) en in de zoekresultaten (planten op je lijst zetten).
 - **Vegen.** Veeg een taak naar links om hem af te vinken en naar rechts om hem uit te stellen. Je draait dat om of zet het uit onder Instellingen. Een korte melding met *Ongedaan* laat je een misser herstellen, en gedane taken verdwijnen uit de lijst.
 - **Later**: stel een taak uit tot morgen, volgende week of een aantal dagen dat je zelf kiest.
 - **Groeperen en filteren** op actie, plant of tuinvak.
