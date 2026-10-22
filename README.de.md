@@ -42,7 +42,7 @@ Der Startbildschirm zeigt die Aufgaben des Moments: säen, vorziehen, pflanzen, 
 
 ## Pflanzenbibliothek
 
-447 Pflanzen und 21 Zwiebelgewächse, jeweils mit Monaten für Aussaat, Pflanzung, Schnitt und Ernte, Abstand,
+495 Pflanzen und 21 Zwiebelgewächse, jeweils mit Monaten für Aussaat, Pflanzung, Schnitt und Ernte, Abstand,
 Standort, guten und schlechten Nachbarn, Fotos und Quellen.
 
 - **Anbautipps pro Monat**, mit Quelle. Die Tipps für 57 Pflanzen stammen aus Anbauseiten der RHS; die übrigen
@@ -52,6 +52,9 @@ Standort, guten und schlechten Nachbarn, Fotos und Quellen.
 - **Filter und Sortierung** nach Gruppe, Rolle, Familie, Standort, Pflanzabstand, Verlässlichkeit, Aktion und Monat.
   Die Überschriften lassen sich einklappen und merken sich ihren Zustand.
 - **Schnellauswahl** wie „Geht jetzt", „Jetzt säen" und „Jetzt pflanzen", dazu eine A-Z-Leiste.
+- **Alle, Garten oder Haus**: die Liste zeigt die Gartenbibliothek, die Zimmerpflanzen oder beides. Bei Zwiebelgewächsen nur die, die auch drinnen gehen.
+- **Pilze und Nüsse**: 21 essbare Pilze zum Züchten und 27 Nüsse, Samen und verwandte Kulturen, mit Anbauhinweisen und Quelle. Giftige Verwechslungen stehen dabei, bei Hanf nur ein rechtlicher Hinweis.
+- **Giftig oder Vorsicht**: bei 216 Pflanzen steht eine rote Karte *Giftig* oder eine gelbe Karte *Vorsicht*, mit Quelle. Ohne Karte ist eine Pflanze nicht automatisch sicher.
 - Fotos von Wikimedia Commons, immer mit Urheber und Lizenz.
 
 ## Mein Garten
@@ -76,7 +79,7 @@ Zeichne deinen Garten mit Beeten und sieh, was wohin passt.
 
 ## Kalender
 
-- **Monat** oder **Jahr**, für **Garten**, **Haus** oder **Beides**. In den Einstellungen wählst du, was du zuerst siehst.
+- **Monat** oder **Jahr**, für **Garten**, **Haus**, **Eigene** oder **Alles**. In den Einstellungen wählst du, was du zuerst siehst.
 - Die Jahresübersicht zeigt farbige Balken pro Pflanze, mit einem Symbol, wenn ein Monat nur eine Aktion hat.
 - **Woche**, neben Monat und Jahr: deine eigenen Aufgaben sowie Gießen und Düngen der Zimmerpflanzen pro Tag. Gruppen sind offen, wenn im eingestellten Zeitraum noch etwas ansteht, und klappen zu, wenn alles erledigt ist. Halte einen farbigen Monatsblock gedrückt, um die Farben erklärt zu bekommen.
 - Eigene Aufgaben pro Woche; leere Wochen sind standardmäßig ausgeblendet.
@@ -90,6 +93,7 @@ Standort, Tipps pro Monat und ob die Pflanze für Haustiere giftig ist (laut ASP
 - Suche nach Name oder nach einem anderen Namen: „vingeraralia" findet die Schefflera.
 - Führe ein Problemprotokoll und füge Fotos hinzu.
 - Lege eine eigene Art an, wenn deine Pflanze nicht dabei ist.
+- **Umtopfen**: schnell rückgängig machen und eine Erinnerung pro Pflanze (jedes Jahr, alle 2 oder 3 Jahre), mit einer Aufgabe unter Heute, wenn es Zeit ist.
 
 ## Tagebuch und Fotos
 
@@ -97,6 +101,7 @@ Standort, Tipps pro Monat und ob die Pflanze für Haustiere giftig ist (laut ASP
   Voraus du abhaken darfst (1 Woche, 1 Monat oder 3 Monate), stellst du selbst ein.
 - **Verlauf** dessen, was du getan hast, mit Notizen.
 - **Zahlen**: was du geerntet, gesät und gepflanzt hast, auf einer kurzen und einer langen Statistikseite, auch pro Jahr.
+- **Ernten** hat einen eigenen Bildschirm (Mehr, Ernten): pro Jahr, Pflanze und Ort, über mehrere Jahre, mit einem Bericht zum Teilen.
 - **Fotoalbum** pro Pflanze, Garten oder Beet, mit Zeitleiste. Eigene Fotos fügst du mit einem Assistenten in drei Schritten hinzu.
 
 ## Vorrat und eigene Aufgaben
@@ -117,6 +122,7 @@ Standort, Tipps pro Monat und ob die Pflanze für Haustiere giftig ist (laut ASP
 ## Suche und Sicherung
 
 - **Alles durchsuchen**: Bibliothek, deine Pflanzen, Tagebuch, eigene Aufgaben und Vorrat, mit Fotos in den Ergebnissen.
+- **Nur essbar**: ein Schalter in der Suche zeigt nur, was du essen kannst. Samennamen wie Sonnenblumenkern oder Kürbiskern führen zur Pflanze.
 - **Sicherung**: exportiere und importiere all deine Daten samt Fotos, oder lass die App jede Woche automatisch
   eine Sicherung in einem gewählten Ordner ablegen.
 - **Jahresplan als PDF**: erst eine Vorschau auf dem Bildschirm, dann öffnen, speichern oder teilen.

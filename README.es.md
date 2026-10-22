@@ -42,7 +42,7 @@ La pantalla de inicio muestra las tareas del momento: sembrar, sembrar en semill
 
 ## Biblioteca de plantas
 
-447 plantas y 21 plantas de bulbo, cada una con los meses de siembra, plantación, poda y cosecha, distancia,
+495 plantas y 21 plantas de bulbo, cada una con los meses de siembra, plantación, poda y cosecha, distancia,
 ubicación, buenos y malos vecinos, fotos y fuentes.
 
 - **Consejos de cultivo por mes**, con la fuente. Los consejos de 57 plantas proceden de páginas de cultivo de la
@@ -52,6 +52,9 @@ ubicación, buenos y malos vecinos, fotos y fuentes.
 - **Filtros y orden** por grupo, función, familia, ubicación, distancia de plantación, fiabilidad, acción y mes. Los
   títulos se pliegan y recuerdan su estado.
 - **Opciones rápidas** como «Se puede ahora», «Sembrar ahora» y «Plantar ahora», con una barra A-Z.
+- **Todas, Jardín o Casa**: la lista muestra la biblioteca del jardín, las plantas de interior o ambas. En bulbos, solo los que también van dentro.
+- **Setas y frutos secos**: 21 setas comestibles para cultivar y 27 frutos secos, semillas y cultivos afines, con notas de cultivo y fuente. Se indican las confusiones venenosas, y con el cáñamo solo una advertencia legal.
+- **Venenoso o precaución**: 216 plantas tienen una tarjeta roja *Venenoso* o amarilla *Precaución*, con fuente. Sin tarjeta, una planta no es necesariamente segura.
 - Fotos de Wikimedia Commons, siempre con autor y licencia.
 
 ## Mi jardín
@@ -76,7 +79,7 @@ Dibuja tu jardín con bancales y mira qué cabe dónde.
 
 ## Calendario
 
-- **Mes** o **Año**, para el **Jardín**, la **Casa** o **Ambos**. En los ajustes eliges lo que ves primero.
+- **Mes** o **Año**, para el **Jardín**, la **Casa**, **Propias** o **Todo**. En los ajustes eliges lo que ves primero.
 - El resumen anual muestra barras de colores por planta, con un icono cuando un mes tiene una sola acción.
 - **Semana**, junto a mes y año: tus tareas propias y el riego y abono de las plantas de interior, día a día. Los grupos están abiertos si queda algo por hacer dentro del horizonte que fijes, y se cierran cuando todo está hecho. Mantén pulsado un bloque de mes de color para ver qué significan los colores.
 - Tareas propias por semana; las semanas vacías están ocultas por defecto.
@@ -90,6 +93,7 @@ riego y abono, la ubicación, consejos por mes y si la planta es tóxica para la
 - Busca por nombre o por otro nombre: «vingeraralia» encuentra la schefflera.
 - Lleva un registro de problemas y añade fotos.
 - Añade tu propia especie si tu planta no está en la lista.
+- **Trasplante**: deshacer rápido y un recordatorio por planta (cada año, cada 2 o 3 años), con una tarea en Hoy cuando toca.
 
 ## Diario y fotos
 
@@ -97,6 +101,7 @@ riego y abono, la ubicación, consejos por mes y si la planta es tóxica para la
   marcar por adelantado (1 semana, 1 mes o 3 meses) lo ajustas tú.
 - **Historial** de lo que hiciste, con notas.
 - **Cifras**: lo que has cosechado, sembrado y plantado, en una página de estadísticas corta y otra larga, también por año.
+- **Cosechas** tiene su propia pantalla (Más, Cosechas): por año, planta y lugar, en varios años, con un informe para compartir.
 - **Álbum de fotos** por planta, jardín o bancal, con línea de tiempo. Añade tu propia foto con un asistente de tres pasos.
 
 ## Existencias y tareas propias
@@ -117,6 +122,7 @@ riego y abono, la ubicación, consejos por mes y si la planta es tóxica para la
 ## Búsqueda y copia de seguridad
 
 - **Buscar en todo**: biblioteca, tus plantas, diario, tareas propias y existencias, con fotos en los resultados.
+- **Solo comestible**: un interruptor en la búsqueda muestra solo lo que se puede comer. Nombres de semillas como pipa de girasol o de calabaza llevan a la planta.
 - **Copia de seguridad**: exporta e importa todos tus datos, fotos incluidas, o deja que la aplicación guarde cada
   semana una copia en una carpeta elegida.
 - **Plan anual en PDF**: primero una vista previa en pantalla y luego abrir, guardar o compartir.

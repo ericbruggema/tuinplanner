@@ -50,7 +50,7 @@ Het beginscherm toont de taken van nu: zaaien, voorzaaien, planten, snoeien, oog
 
 ## Plantenbibliotheek
 
-447 planten en 21 bolgewassen, elk met zaai-, plant-, snoei- en oogstmaanden, afstand, standplaats, goede en slechte
+495 planten en 21 bolgewassen, elk met zaai-, plant-, snoei- en oogstmaanden, afstand, standplaats, goede en slechte
 buren, foto's en bronnen.
 
 <p>
@@ -66,6 +66,9 @@ buren, foto's en bronnen.
 - **Filters en sortering** op groep, rol, familie, standplaats, plantafstand, betrouwbaarheid, actie en maand. Koppen
   zijn inklapbaar en onthouden hun stand.
 - **Snelle keuzes** zoals "Kan nu", "Nu zaaien" en "Nu planten", plus een A-Z-balk.
+- **Alle, Tuin of Huis**: de lijst toont de tuinbibliotheek, de kamerplanten of allebei. Bij bolgewassen alleen de bollen die ook binnen kunnen.
+- **Paddenstoelen en noten**: 21 eetbare paddenstoelen om te kweken en 27 noten, zaden en verwante gewassen, met kweekinfo en bron. Giftige verwisselingen staan erbij, en bij hennep alleen een wettelijke waarschuwing.
+- **Giftig of let op**: bij 216 planten staat een rode kaart *Giftig* of een gele kaart *Let op*, met bron. Zonder kaart is een plant niet per se veilig.
 - Foto's van Wikimedia Commons, met altijd maker en licentie erbij.
 
 ## Mijn tuin
@@ -107,7 +110,7 @@ Teken je tuin met vakken en zie wat er waar kan.
   <img src="assets/kalender-planten-in-huis.jpg" width="190" alt="Planten in huis in de kalender">
 </p>
 
-- **Maand** of **Jaar**, voor **Tuin**, **Huis** of **Beide**. In Instellingen kies je wat je als eerste ziet.
+- **Maand** of **Jaar**, voor **Tuin**, **Huis**, **Eigen** of **Alles**. In Instellingen kies je wat je als eerste ziet.
 - Het jaaroverzicht toont per plant gekleurde balkjes, met een icoon als een maand maar één actie heeft.
 - **Week**, naast maand en jaar: je eigen taken en het water en de voeding voor je planten in huis per dag. Groepen staan open als er nog iets te doen is binnen de horizon die je instelt, en klappen dicht als alles gedaan is. Houd een gekleurd maandblok ingedrukt voor uitleg bij de kleuren.
 - Eigen taken per week; lege weken zijn standaard verborgen.
@@ -126,6 +129,7 @@ tips per maand en of de plant giftig is voor huisdieren (volgens de ASPCA).
 - Zoek op naam of op een andere naam: "vingeraralia" vindt de Vingerboom.
 - Houd een probleemlogboek bij en voeg foto's toe.
 - Voeg een eigen soort toe als jouw plant er niet bij staat.
+- **Verpotten**: kort ongedaan maken en een herinnering per plant (elk jaar, om de 2 of 3 jaar), met een taak op Vandaag als het tijd is.
 
 ## Dagboek en foto's
 
@@ -138,6 +142,7 @@ tips per maand en of de plant giftig is voor huisdieren (volgens de ASPCA).
   afvinken (1 week, 1 maand of 3 maanden) stel je zelf in.
 - **Geschiedenis** van wat je deed, met notities.
 - **Cijfers**: wat je hebt geoogst, gezaaid en geplant, in een korte en een lange statistiekenpagina, ook per jaar.
+- **Oogsten** heeft een eigen scherm (Meer, Oogsten): per jaar, soort en plek, over meerdere jaren, met een rapport om te delen.
 - **Fotoalbum** per plant, tuin of vak, met een tijdlijn. Voeg een eigen foto toe via een wizard in drie stappen.
 
 ## Voorraad en eigen taken
@@ -163,6 +168,7 @@ tips per maand en of de plant giftig is voor huisdieren (volgens de ASPCA).
 ## Zoeken en back-up
 
 - **Zoeken in alles**: bibliotheek, jouw planten, dagboek, eigen taken en voorraad, met foto's in de resultaten.
+- **Alleen eetbaar**: een schakelaar in Zoeken toont alleen wat je kunt eten. Zaadnamen als zonnebloempit of pompoenpit vind je bij de plant.
 - **Back-up**: exporteer en importeer al je gegevens, inclusief foto's, of laat de app elke week automatisch een
   back-up in een gekozen map zetten.
 - **Jaarplan als PDF**: eerst een voorbeeld op het scherm, daarna openen, opslaan of delen.

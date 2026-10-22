@@ -43,7 +43,7 @@ L'écran d'accueil montre les tâches du moment : semer, semer sous abri, plante
 
 ## Bibliothèque de plantes
 
-447 plantes et 21 plantes à bulbes, chacune avec les mois de semis, plantation, taille et récolte, la distance,
+495 plantes et 21 plantes à bulbes, chacune avec les mois de semis, plantation, taille et récolte, la distance,
 l'exposition, les bons et mauvais voisins, des photos et des sources.
 
 - **Conseils de culture par mois**, avec la source. Les conseils pour 57 plantes viennent des pages de culture de la
@@ -53,6 +53,9 @@ l'exposition, les bons et mauvais voisins, des photos et des sources.
 - **Filtres et tri** par groupe, rôle, famille, exposition, distance de plantation, fiabilité, action et mois. Les
   titres se replient et mémorisent leur état.
 - **Choix rapides** comme « Possible maintenant », « Semer maintenant » et « Planter maintenant », avec une barre A-Z.
+- **Toutes, Jardin ou Maison** : la liste montre la bibliothèque du jardin, les plantes d'intérieur ou les deux. Pour les bulbes, seulement ceux qui vont aussi à l'intérieur.
+- **Champignons et noix** : 21 champignons comestibles à cultiver et 27 noix, graines et cultures apparentées, avec notes de culture et source. Les sosies vénéneux sont indiqués, et pour le chanvre seulement un avertissement légal.
+- **Toxique ou attention** : 216 plantes ont une carte rouge *Toxique* ou jaune *Attention*, avec la source. Sans carte, une plante n'est pas forcément sans danger.
 - Photos de Wikimedia Commons, toujours avec l'auteur et la licence.
 
 ## Mon jardin
@@ -77,7 +80,7 @@ Dessine ton jardin avec des parcelles et vois ce qui va où.
 
 ## Calendrier
 
-- **Mois** ou **Année**, pour le **Jardin**, la **Maison** ou **Les deux**. Dans les réglages, tu choisis ce que tu vois en premier.
+- **Mois** ou **Année**, pour le **Jardin**, la **Maison**, **Propres** ou **Tout**. Dans les réglages, tu choisis ce que tu vois en premier.
 - L'aperçu annuel montre des barres colorées par plante, avec une icône quand un mois n'a qu'une seule action.
 - **Semaine**, à côté de mois et année : tes tâches personnelles et l'arrosage et l'engrais des plantes d'intérieur, jour par jour. Les groupes sont ouverts s'il reste quelque chose à faire dans l'horizon réglé, et se referment quand tout est fait. Maintiens un bloc de mois coloré pour une explication des couleurs.
 - Tâches personnelles par semaine ; les semaines vides sont masquées par défaut.
@@ -92,6 +95,7 @@ d'arrosage et d'engrais, l'emplacement, des conseils par mois et si la plante es
 - Cherche par nom ou par un autre nom : « vingeraralia » trouve le schefflera.
 - Tiens un journal des problèmes et ajoute des photos.
 - Ajoute ta propre espèce si ta plante n'est pas dans la liste.
+- **Rempotage** : annulation rapide et un rappel par plante (chaque année, tous les 2 ou 3 ans), avec une tâche dans Aujourd'hui quand c'est le moment.
 
 ## Journal et photos
 
@@ -99,6 +103,7 @@ d'arrosage et d'engrais, l'emplacement, des conseils par mois et si la plante es
   peux cocher à l'avance (1 semaine, 1 mois ou 3 mois) se règle toi-même.
 - **Historique** de ce que tu as fait, avec des notes.
 - **Chiffres** : ce que tu as récolté, semé et planté, sur une page de statistiques courte et une longue, aussi par année.
+- **Récoltes** a son propre écran (Plus, Récoltes) : par année, plante et lieu, sur plusieurs années, avec un rapport à partager.
 - **Album photo** par plante, jardin ou parcelle, avec une chronologie. Ajoute ta propre photo avec un assistant en trois étapes.
 
 ## Stock et tâches personnelles
@@ -119,6 +124,7 @@ d'arrosage et d'engrais, l'emplacement, des conseils par mois et si la plante es
 ## Recherche et sauvegarde
 
 - **Tout rechercher** : bibliothèque, tes plantes, journal, tâches personnelles et stock, avec des photos dans les résultats.
+- **Comestible seulement** : un interrupteur dans la recherche n'affiche que ce qui se mange. Les noms de graines comme graine de tournesol ou de courge mènent à la plante.
 - **Sauvegarde** : exporte et importe toutes tes données, photos comprises, ou laisse l'application déposer chaque
   semaine une sauvegarde dans un dossier choisi.
 - **Plan annuel en PDF** : d'abord un aperçu à l'écran, puis ouvrir, enregistrer ou partager.

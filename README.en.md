@@ -41,7 +41,7 @@ The home screen shows the tasks of the moment: sowing, pre-sowing, planting, pru
 
 ## Plant library
 
-447 plants and 21 bulb crops, each with sowing, planting, pruning and harvest months, spacing, position, good and
+495 plants and 21 bulb crops, each with sowing, planting, pruning and harvest months, spacing, position, good and
 bad neighbours, photos and sources.
 
 - **Growing tips per month**, with the source. Tips for 57 plants come from RHS cultivation pages; the rest are
@@ -51,6 +51,9 @@ bad neighbours, photos and sources.
 - **Filters and sorting** by group, role, family, position, plant spacing, reliability, action and month. Headings
   fold away and remember their state.
 - **Quick choices** such as "Can do now", "Sow now" and "Plant now", plus an A-Z bar.
+- **All, Garden or House**: the list shows the garden library, the houseplants or both. For bulbs, only the ones that also work indoors.
+- **Mushrooms and nuts**: 21 edible mushrooms to grow and 27 nuts, seeds and related crops, with growing notes and sources. Poisonous look-alikes are listed, and hemp only has a legal warning.
+- **Poisonous or take care**: 216 plants have a red *Poisonous* card or a yellow *Take care* card, with a source. No card does not mean a plant is safe.
 - Photos from Wikimedia Commons, always with maker and licence.
 
 ## My garden
@@ -75,7 +78,7 @@ Draw your garden with beds and see what fits where.
 
 ## Calendar
 
-- **Month** or **Year**, for **Garden**, **House** or **Both**. In Settings you choose what you see first.
+- **Month** or **Year**, for **Garden**, **House**, **Own** or **All**. In Settings you choose what you see first.
 - The year overview shows coloured bars per plant, with an icon when a month has only one action.
 - **Week**, next to month and year: your own tasks and the water and feeding for your houseplants, per day. Groups open when there is still something to do within the horizon you set, and fold shut when all is done. Press and hold a coloured month block for an explanation of the colours.
 - Own tasks per week; empty weeks are hidden by default.
@@ -89,6 +92,7 @@ rhythm, the position, tips per month and whether the plant is toxic to pets (acc
 - Search by name or by another name: "vingeraralia" finds the Schefflera.
 - Keep a problem log and add photos.
 - Add your own species if your plant is not in the list.
+- **Repotting**: a quick undo and a reminder per plant (every year, every 2 or 3 years), with a task on Today when it is time.
 
 ## Diary and photos
 
@@ -96,6 +100,7 @@ rhythm, the position, tips per month and whether the plant is toxic to pets (acc
   tick off (1 week, 1 month or 3 months) is up to you.
 - **History** of what you did, with notes.
 - **Figures**: what you harvested, sowed and planted, in a short and a long statistics page, also per year.
+- **Harvests** has its own screen (More, Harvests): per year, plant and place, across several years, with a report to share.
 - **Photo album** per plant, garden or bed, with a timeline. Add your own photo with a three-step wizard.
 
 ## Stock and own tasks
@@ -116,6 +121,7 @@ rhythm, the position, tips per month and whether the plant is toxic to pets (acc
 ## Search and backup
 
 - **Search everything**: library, your plants, diary, own tasks and stock, with photos in the results.
+- **Edible only**: a switch in Search shows only what you can eat. Seed names such as sunflower seed or pumpkin seed find the plant.
 - **Backup**: export and import all your data, photos included, or let the app put a backup in a chosen folder
   every week.
 - **Year plan as PDF**: a preview on screen first, then open, save or share.
